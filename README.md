@@ -34,3 +34,6 @@ This project was created using the following open-source tools:
 - txtai
 - sentence-transformers
 - gradio
+
+Youtube Link for the explanation of the code
+- https://youtu.be/reG18yt2uK0
